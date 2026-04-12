@@ -18,9 +18,9 @@ against them.
 
 ## 🔧 Tools & Skills
 
-`Splunk` `Elastic SIEM` `Kibana` `Sysmon` `Wireshark`  
-`EvtxEcmd` `Timeline Explorer` `Brim` `VirusTotal` `CyberChef`  
-`MITRE ATT&CK` `ISO 27001` `Vendor Risk Management` `pestudio`
+`Splunk` `Elastic SIEM` `Kibana` `Sysmon` `Wireshark` `tshark`
+`EvtxEcmd` `Timeline Explorer` `Brim` `VirusTotal` `CyberChef`
+`Volatility` `olevba` `MITRE ATT&CK` 
 
 ---
 
@@ -32,6 +32,8 @@ against them.
 | Writeup | Category | Tools |
 |---|---|---|
 | [Tempest](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/TEMPEST/writeup.md) | Threat Hunting | EvtxEcmd, Timeline Explorer, Brim |
+| [Boogeyman 2](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-2/writeup.md) | Memory Forensics | Volatility, olevba, strings |
+| [Boogeyman 1](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-1/writeup.md) | Email Forensics | lnkparse, tshark, Wireshark |
 | [ItsyBitsy](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/ItsyBitsy/writeup.md) | SOC Investigation | Elastic SIEM, Kibana |
 | [Invite Only](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Invite-Only/writeup.md) | Threat Intelligence | VirusTotal |
 
