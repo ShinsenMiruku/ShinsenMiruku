@@ -20,7 +20,7 @@ against them.
 
 `Splunk` `Elastic SIEM` `Kibana` `Sysmon` `Wireshark` `tshark`
 `EvtxEcmd` `Timeline Explorer` `Brim` `VirusTotal` `CyberChef`
-`Volatility` `olevba` `MITRE ATT&CK` 
+`Volatility` `olevba` `MITRE ATT&CK` `ISO 27001`
 
 ---
 
