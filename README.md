@@ -37,6 +37,7 @@ against them.
 | [Boogeyman 1](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-1/writeup.md) | Email Forensics | lnkparse, tshark, Wireshark |
 | [ItsyBitsy](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/ItsyBitsy/writeup.md) | SOC Investigation | Elastic SIEM, Kibana |
 | [Invite Only](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Invite-Only/writeup.md) | Threat Intelligence | VirusTotal |
+| [Vantage](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Vantage/writeup.md) | Network Forensics | Wireshark |
 
 ---
 
@@ -50,4 +51,4 @@ against them.
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-cruz-761bb6262/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shinsen)
-
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019ca88a-396b-7280-ade5-5a946c63d302)
