@@ -32,7 +32,7 @@ against them.
 | Writeup | Category | Tools |
 |---|---|---|
 | [Tempest](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/TEMPEST/writeup.md) | Threat Hunting | EvtxEcmd, Timeline Explorer, Brim |
-| [Boogeyman 3](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/Boogeyman-3/writeup.md) | Lateral Movement | Elastic SIEM, Kibana |
+| [Boogeyman 3](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/Boogeyman%203/writeup.md) | Lateral Movement | Elastic SIEM, Kibana |
 | [Boogeyman 2](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-2/writeup.md) | Memory Forensics | Volatility, olevba, strings |
 | [Boogeyman 1](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-1/writeup.md) | Email Forensics | lnkparse, tshark, Wireshark |
 | [ItsyBitsy](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/ItsyBitsy/writeup.md) | SOC Investigation | Elastic SIEM, Kibana |
