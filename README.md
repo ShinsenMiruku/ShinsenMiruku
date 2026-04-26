@@ -30,7 +30,7 @@ against them.
 — SOC investigations, threat hunting, and incident response writeups
 
 | Writeup | Category | Platform | Tools |
-|---|---|---|
+|---|---|---|---|
 | [Tempest](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/TEMPEST/writeup.md) | Threat Hunting | TryHackMe | EvtxEcmd, Timeline Explorer, Brim |
 | [Boogeyman 3](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/Boogeyman-3/writeup.md) | Lateral Movement | TryHackMe | Elastic SIEM, Kibana |
 | [Masquerade]https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Malware%20Analysis/Masquerade/writeup.md) | Malware Analysis | TryHackMe | Wireshark, Event Viewer, CyberChef |
