@@ -31,13 +31,14 @@ against them.
 
 | Writeup | Category | Tools |
 |---|---|---|
-| [Tempest](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/TEMPEST/writeup.md) | Threat Hunting | EvtxEcmd, Timeline Explorer, Brim |
-| [Boogeyman 3](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/Boogeyman%203/writeup.md) | Lateral Movement | Elastic SIEM, Kibana |
-| [Boogeyman 2](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-2/writeup.md) | Memory Forensics | Volatility, olevba, strings |
-| [Boogeyman 1](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-1/writeup.md) | Email Forensics | lnkparse, tshark, Wireshark |
-| [ItsyBitsy](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/ItsyBitsy/writeup.md) | SOC Investigation | Elastic SIEM, Kibana |
-| [Invite Only](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Invite-Only/writeup.md) | Threat Intelligence | VirusTotal |
-| [Vantage](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Vantage/writeup.md) | Network Forensics | Wireshark |
+| [Tempest](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/TEMPEST/writeup.md) | Threat Hunting | TryHackMe | EvtxEcmd, Timeline Explorer, Brim |
+| [Boogeyman 3](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/Boogeyman-3/writeup.md) | Lateral Movement | TryHackMe | Elastic SIEM, Kibana |
+| [Masquerade](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Malware-Analysis/Masquerade/writeup.md) | Malware Analysis | TryHackMe | Wireshark, Event Viewer, CyberChef |
+| [Boogeyman 2](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-2/writeup.md) | Memory Forensics | TryHackMe | Volatility, olevba, strings |
+| [Boogeyman 1](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-1/writeup.md) | Email Forensics | TryHackMe | lnkparse, tshark, Wireshark |
+| [Vantage](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Vantage/writeup.md) | Network Forensics | Hack The Box | Wireshark |
+| [ItsyBitsy](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/ItsyBitsy/writeup.md) | SOC Investigation | TryHackMe | Elastic SIEM, Kibana |
+| [Invite Only](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Invite-Only/writeup.md) | Threat Intelligence | TryHackMe | VirusTotal |
 
 ---
 
