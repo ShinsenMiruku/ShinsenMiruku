@@ -30,11 +30,11 @@ against them.
 — SOC investigations, threat hunting, and incident response writeups
 
 | Writeup | Category | Platform | Tools |
-|---|---|---|
+|---|---|---|---|
 | [Tempest](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/TEMPEST/writeup.md) | Threat Hunting | TryHackMe | EvtxEcmd, Timeline Explorer, Brim |
 | [Telly](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Telly/writeup.md) | Network Forensics | Hack The Box | Wireshark |
 | [Boogeyman 3](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/Boogeyman-3/writeup.md) | Lateral Movement | TryHackMe | Elastic SIEM, Kibana |
-| [Masquerade]https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Malware%20Analysis/Masquerade/writeup.md) | Malware Analysis | TryHackMe | Wireshark, Event Viewer, CyberChef |
+| [Masquerade](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Malware%20Analysis/Masquerade/writeup.md) | Malware Analysis | TryHackMe | Wireshark, Event Viewer, CyberChef |
 | [Boogeyman 2](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-2/writeup.md) | Memory Forensics | TryHackMe | Volatility, olevba, strings |
 | [Boogeyman 1](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Boogeyman-1/writeup.md) | Email Forensics | TryHackMe | lnkparse, tshark, Wireshark |
 | [Vantage](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Vantage/writeup.md) | Network Forensics | Hack The Box | Wireshark |
