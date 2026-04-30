@@ -31,6 +31,7 @@ against them.
 
 | Writeup | Category | Platform | Tools |
 |---|---|---|---|
+| [Alert Triage: Phishing](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Simulations/Alert-Triage-Phishing/writeup.md) | SOC Simulation | Splunk, VirusTotal, Cisco Talos |
 | [Tempest](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/TEMPEST/writeup.md) | Threat Hunting | TryHackMe | EvtxEcmd, Timeline Explorer, Brim |
 | [Telly](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/SOC-Investigations/Telly/writeup.md) | Network Forensics | Hack The Box | Wireshark |
 | [Boogeyman 3](https://github.com/ShinsenMiruku/cybersecurity-labs/blob/main/Threat-Hunting/Boogeyman-3/writeup.md) | Lateral Movement | TryHackMe | Elastic SIEM, Kibana |
